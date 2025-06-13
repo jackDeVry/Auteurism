@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "5ba62bfa-eadc-4688-920b-ffddc017a62b": {
+      "label": "A Clockwork Orange (1971)",
+      "is_offline": false,
+      "file_type": "video",
+      "file_url": "https://dn721605.ca.archive.org/0/items/a-clockwork-orange_202404/a%20clockwork%20orange%20.mp4",
+      "duration": 8196
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "A Clockwork Orange (1971)",
+  "created_at": "2025-06-13T13:33:46.790Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-06-13T13:33:46.790Z",
+  "updated_by": "jackDeVry"
+}

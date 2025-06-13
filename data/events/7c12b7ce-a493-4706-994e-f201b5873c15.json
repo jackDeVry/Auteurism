@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "c9607aac-e6c1-4f47-8513-a5e2bf5b01c3": {
+      "label": "Paths of Glory (1957)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://dn720705.ca.archive.org/0/items/pathsofglory1957_201908/Paths%20of%20Glory%20%281957%29.mp4",
+      "duration": 5301
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Paths of Glory (1957)",
+  "created_at": "2025-06-13T13:33:46.790Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-06-13T13:33:46.790Z",
+  "updated_by": "jackDeVry"
+}

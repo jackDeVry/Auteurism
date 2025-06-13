@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "932f85ac-d55d-49d8-85c5-58a2a49fcf03": {
+      "label": "Fear and Desire (1952)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://ia601003.us.archive.org/32/items/fearanddesire1953.webm.720p/Fear_and_Desire_%281953%29.webm.720p.mp4",
+      "duration": 3646
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Fear and Desire (1952)",
+  "created_at": "2025-06-13T13:33:46.790Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-06-13T13:33:46.790Z",
+  "updated_by": "jackDeVry"
+}

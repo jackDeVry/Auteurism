@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "f656f904-f1b6-44d6-acdd-d63485763f2e": {
+      "label": "The Killing (1956) Full Film",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://dn720207.ca.archive.org/0/items/thekilling1956/The%20Killing%20%281956%29.mp4",
+      "duration": 5060
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "The Killing (1956) Film",
+  "created_at": "2025-06-13T13:33:46.790Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-06-13T13:33:46.790Z",
+  "updated_by": "jackDeVry"
+}
