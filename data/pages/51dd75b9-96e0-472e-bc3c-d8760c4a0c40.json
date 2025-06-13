@@ -4,11 +4,12 @@
   "created_by": "jackDeVry",
   "title": " The Most Popular (and Controversial) Theory in Film Criticism ",
   "slug": "the-most-popular-and-controversial-theory",
-  "updated_at": "2025-06-13T14:24:29.035Z",
+  "updated_at": "2025-06-13T14:25:37.554Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "0700d0fb-00c8-4de1-bcfb-f5e203bb5cb7"
-  }
+  },
+  "parent": "4a9b136b-ecca-4a23-93f8-3a4ca048d7a1"
 }
