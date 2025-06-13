@@ -1,5 +1,1629 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Testing, 1234, Jeremy Bernstein, taped, November, 27 side a born, July, 26 1928, New York City. My father is a doctor. One sister, Barbara, married two children. Lives in New Jersey, six years younger. Her husband is a lawyer. I was taught to play chess at the age of 12, but did not play seriously until about age of 17, when I joined the Marshall Chess Club in New York on West 10th Street, between Fifth and Sixth Avenue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "e848668c-dbbd-4424-81a6-d82be129d212"
+    },
+    {
+      "start_time": 36,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whatever came along. Did you have any particular intellectual interests as a child? Do you remember, I mean, when you were an avid reader or"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "14c149f5-3e4a-4843-88c9-126bd464fbe0"
+    },
+    {
+      "start_time": 49,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I had few intellectual interests as a child. I was a school misfit, and considered, you know, reading a book school work, and I don't think I read a book for pleasure until after I graduated high school. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "c37c8152-d8ce-4cf2-aeb3-a26bbab183e5"
+    },
+    {
+      "start_time": 74,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What were you, What were you doing? Well, you were a misfit? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "75f1983f-d81b-4f73-b4f4-7a9983ddc315"
+    },
+    {
+      "start_time": 78,
+      "end_time": 144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I had, I had one thing. I think that that that perhaps helped me get over being a misfit, a school misfit, and that is that I became interested in photography about the same time 12 or 13. And I think that if you, get involved in any kind of, problem, problem solving in depth on almost anything, it is surprisingly similar to problem solving of anything. You know, I started out by just, you know, getting a camera and learning how to take pictures and learning how to print pictures, and learning how to build a dark room and learning how to do all the technical things and so on and so on. And then finally, trying to find out how you could sell pictures and become a, you know, would it be possible to be a professional photographer? And it was a case of over a period of, say, from the age of 13 to 17, you might say, going through step by step, by myself, without anybody really helping me the problem solving of becoming a photographer. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "4fea80c4-5e7e-4ed7-bfd9-8b78039ad6d0"
+    },
+    {
+      "start_time": 144,
+      "end_time": 219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I found that, I think, in looking back, that the, this particular thing about problem solving is something that schools generally don't teach you, and that if you can develop a kind of generalized approach to problem solving, that it's surprising how it helps you in anything you know, and that most of the most of the deficiencies that you see around you in people that say are you don't think particularly you're doing their job Right, or something is really that? I mean assuming that they care, and you know, a lot of people that appear to care or may actually care, are still not going about things particularly the right way. When you think about it, I generally find that it's just that they don't have a good generalized approach to problem solving. They're not thorough, they don't consider all the possibilities. They don't prepare themselves with the right information, and so forth. So I think that photography, though it seemed like a hobby, but and ultimately led to a professional job in photography might have been more valuable than, you know, doing the proper things in school."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "071f4977-d219-440f-ad28-24bb15ef7449"
+    },
+    {
+      "start_time": 219,
+      "end_time": 226,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Were you sort of the despair of your family at that time because of your schoolwork? Or did you well "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "41bca026-81c4-4593-b02e-46a49078c766"
+    },
+    {
+      "start_time": 226,
+      "end_time": 264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "it wasn't a real drama, you know, I imagine so, but it was never, as it was never completely apparent, until I graduated from high school that I couldn't go to college because I graduated in 1945 when all the GIs were now pouring back on the GI Bill and I had a 67 average. And it turned out that there wasn't any college in United States, even of the lowest caliber who would take a student with less than a 75 average in that year. So I couldn't get it. I failed to get into college."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "67b9b909-c851-400d-a8d8-59eafacd1df8"
+    },
+    {
+      "start_time": 264,
+      "end_time": 269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you? Did you take the all these Scholastic Aptitude tests and so on, or what?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "4bedeea6-b8a2-4fa4-aef1-58cabb015e17"
+    },
+    {
+      "start_time": 269,
+      "end_time": 277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "they were, they wouldn't consider you. In other words, they wouldn't even accept your application if you didn't have a 75 average in that particular year."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "917657ee-5001-4d52-b104-21c955f0d208"
+    },
+    {
+      "start_time": 277,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Looking back in retrospect, you think not going to college was, in a certain sense, a fortunate thing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "2d9dbb5d-515f-419c-acbd-a81b015e2a71"
+    },
+    {
+      "start_time": 285,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, tremendously. Because what happened is that I\nwell, I had developed myself as a photographer, and prior to graduating high school, I had sold two picture stories to Look."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "29dd0488-318c-4dec-8a99-2fe7fb1c22f3"
+    },
+    {
+      "start_time": 300,
+      "end_time": 303,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What were they about?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "288cce97-edee-4680-945e-08dc422d9e94"
+    },
+    {
+      "start_time": 303,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " One was about a teacher in high school named Mr. Traister, T, R, a, i, s, t, e, r, who taught English, and he used to dramatize Shakespeare. He would read the parts and act it out. And he made it very interesting. You know, it was one of the few courses that were interesting. You know, most of the English courses that I had consisted of the teacher saying, You're to read five pages of Silas Marner tonight, and the next day the class was spent in sitting at the book, like Emil Jennings in the Blue Angel, looking up over the book and saying, you know, Mr. Kubrick, and then you stand up, and they say, when Silas Marner walked out of the door, what did he see? And if you didn't know what he saw, you got a zero, and that was it. And as a matter of fact, I failed English once, and had to make it up in summer summer school."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "622be5ab-ffbd-4828-87c3-cf1d021c529b"
+    },
+    {
+      "start_time": 359,
+      "end_time": 363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you show   aptitude for things like mathematics and so on ?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "b1ae14ae-152e-475e-98a7-787d2c27a245"
+    },
+    {
+      "start_time": 363,
+      "end_time": 400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The only, actually, the only courses that I got good marks in were science courses. Yeah, I think I got, I can't remember now, but I think I got about an 87 in physics and not in mathematics, though, but in science courses I liked and did reasonably well. But anyway, Traister was one, and I forgot what the other one was now, but they bought these two pictures. Oh, and they also sold them a picture. I sold them two picture stories and a photograph of a news dealer sitting on 100 and 70th street in a Grand Concourse, right across two blocks away from Taft High School, with all the headlines saying Roosevelt, you know, dies or FDR, dead, yeah. And he was sitting there looking depressed. And they liked this picture and used it in a whole series about Roosevelt. And it was sort of the final picture of the of the series."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "07eb1dd5-d4d2-41b8-ba00-969110e0e326"
+    },
+    {
+      "start_time": 400,
+      "end_time": 401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is that where you went?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "32daa679-0f33-415c-96f2-d52bf0298f4a"
+    },
+    {
+      "start_time": 402,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "with all the headlines saying Roosevelt, you know, dies or FDR, dead. And he was sitting there looking depressed. And they liked this picture and used it in a whole series about Roosevelt. And it was sort of the final picture of the of the series."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "84a96383-8bb2-4a7e-9c0c-33dbea1189bb"
+    },
+    {
+      "start_time": 420,
+      "end_time": 427,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Were you interested in extracurricular activities, apart from photography as a high school student, in sports or stuff like that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "29724bcd-9a2c-4e9d-846d-a4f0734c50e5"
+    },
+    {
+      "start_time": 428,
+      "end_time": 433,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I used to play, but, I mean, I wasn't on any of the school teams. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "2029e5ed-35bc-4882-a796-97d98ab689f0"
+    },
+    {
+      "start_time": 433,
+      "end_time": 434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Football?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "9d7a0cee-c552-43d2-90a5-a55e2da94bb4"
+    },
+    {
+      "start_time": 434,
+      "end_time": 445,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I used to play everything, you know, but basketball in the concrete. You know, outdoor what do they call them again?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "ecdcfa84-ddf8-46e1-b41b-ce96ac4a7a47"
+    },
+    {
+      "start_time": 445,
+      "end_time": 446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ashley Parker?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "89ce68c9-a245-46b1-b3e1-b627b8659bbc"
+    },
+    {
+      "start_time": 446,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, no. You know the playgrounds, the playgrounds, the city playground, and stick ball you know, in the street and the odd softball game in the Taft dirt. You know, gym yard. They had a very large dirt gym yard, things like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "ed850598-15ee-407d-8dab-8d6d056aed34"
+    },
+    {
+      "start_time": 470,
+      "end_time": 473,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Would you, would you say Stanley…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "531593fb-2f5e-4be5-b0be-c0a6adca8bb0"
+    },
+    {
+      "start_time": 473,
+      "end_time": 474,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " touch football in the street."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "619fdb82-4849-4a40-9043-366d94a5da68"
+    },
+    {
+      "start_time": 474,
+      "end_time": 497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The fact that that you didn't go to college has given you a certain sense of what one might call irreverence for for for college graduates who don't meet up to what you would consider to be your so to speak, your intellectual standards. I mean, if you come across a college guy who's got a lot of degrees but doesn't seem to radiate competence, Does it bug you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "b8e59f49-c8ed-44f7-b5c6-a32a8a1feb28"
+    },
+    {
+      "start_time": 497,
+      "end_time": 571,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I don't think that. I I don't think I look at it that way. No, the reason, I think it was an was an advantage for me, is that I then backed into this, you know, fantastically good job at the age of 17, I went, I was, I went, I took, I can't remember what it was, but I took some pictures down there I was. Now, what had happened is that I could not get into college, and all sorts of things. My father, who was an alumni of NYU uptown, took me to see the dean, you know, and said, you know, this is my son, and I was a student here in so fun, and nothing worked. So I started going to City College at night, under the hope that if I got a B average for so many credits, I don't remember now, that I could then get into day school, a day college. But within about, I don't know, a few weeks of this, I was down at look with some other pictures. And there was an extremely nice picture editor then, whose name was Helen O'Brien, and the managing editor at the time was Jack Gunther, who was then later killed in the Bryce Canyon, Utah plane crash."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "9c4604e4-56b6-4536-8eb5-cf6d5c20aaf3"
+    },
+    {
+      "start_time": 571,
+      "end_time": 595,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And she asked me what I was doing, and I told her, You know nothing, and that I was going to try to you know what had happened. And she said something about, you know, she thought she might be able to get me a job as an apprentice photographer. And, you know, so I went up to see Jack Gunther and so forth, and I got a job."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "ef79bb22-4526-4505-8534-ec0388878b59"
+    },
+    {
+      "start_time": 595,
+      "end_time": 599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how long were you a photographer? Actually, on Look?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "a3cd5b7a-8130-40c4-ad65-f231a2ecaa0e"
+    },
+    {
+      "start_time": 599,
+      "end_time": 605,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well. Was a printer, was apprentice photographer six months, and then I became a staff photographer, and I was there for four years"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "0663a8df-f91f-42b4-896c-169278094890"
+    },
+    {
+      "start_time": 605,
+      "end_time": 610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " You were actually there until, until age 21?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "88117f00-928a-41ef-9291-908ff5d856a2"
+    },
+    {
+      "start_time": 610,
+      "end_time": 681,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And of course, that would have been the, you know, the period I'd spent in college. And I think that the, you know, the things, what I learned, and the practical experience in every respect, including photography. What I learned in that four year period exceeded what I could have learned in school. And also getting out of school, I can't remember what was the the particular turning point, but being out of school, I began to read, and within a relatively short period of time, I would imagine, caught up with where I probably should have been had I had a modicum of interest in things in high school. Because, I mean, after all, you really only miss. I mean, before you're 12 or 13, how many, how many serious books can you read? So I only really blew four years of part time reading. How much time you go to school? All day you play? Is there any magic? Got to do your homework? So in retrospect, I don't feel that I missed reading that many books. And I felt that I I caught up pretty quickly when I became interested in in things in general."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "415766e7-6f2f-4ebc-8709-3d409a116373"
+    },
+    {
+      "start_time": 681,
+      "end_time": 688,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, what, what first gave you the idea of actually going into the movies, as opposed to…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "66c1f422-4192-4002-ad71-16e6c649db86"
+    },
+    {
+      "start_time": 688,
+      "end_time": 740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "like everybody else, you know, I was always very interested in movies, and I used to go to see films, and I'd say, practically every film. And I used to see all the films at the Museum of Modern Art and Natalia. And actually, at that time, you know, when I was a teenager, there were the art the so called Art House didn't really exist in the to the extent it does now, you know, it was the post war Italian sort of the Rossellini pictures which brought the art houses into existence. So there weren't that many good films that were ever played in, you know, the theaters around except the museum. Anyway, I used to see all the films, and I knew I'd seen them all a number of times at the museum."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "a2e8629b-1d4e-48c9-99b2-545fc088b295"
+    },
+    {
+      "start_time": 740,
+      "end_time": 817,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a friend of mine who subsequently has become a film director named Alex singer, was working as an office boy at the march of time, and one day he told me that it cost $40,000 to make a march of time, and it was a one railer. And I said to him, gee, that's a lot of money. I said, I can't believe it costs that much to make, you know, eight or nine minutes of film. So I called up Eastman Kodak and checked on the price of film, and then I called up the laboratory and found out how much it cost to develop it, and I checked on how much it cost to rent 35 millimeter movie cameras. And then I checked the cost of the other facilities, Sound and Editing and so forth. And I forgot what it added up to, but it was, it was something like that. I could do a documentary film with an original music score and everything for about $3,500 so I thought, gee, if they're making these pictures for 40,000 and I can make them for 3500 surely I must be able to sell them and at least get my money back, and probably make a profit, you know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "f9691c3c-8b57-40cb-a4d3-b22f88ce5c3e"
+    },
+    {
+      "start_time": 817,
+      "end_time": 900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I think we thought that we could make a considerable profit, because we assumed that if they were making them for $40,000 a piece, that they must be making a profit, you know. And so I rented a 35 millimeter EYEMO camera that's spelled E, Y, E, M, O, which is a spring wound camera produces a professional picture, and I did a documentary film about a boxer named Walter Cartier, who I had previously done a picture story for look about, and I knew him, and it was called day of the fight. And got the whole thing, you know, did everything, Alex helped me, you know, sort of carried lights around and assisted me. And I did the whole thing just myself and Alex and Walter and his people that he knew and cut it, and another friend of mine, who subsequently has become a professional movie composer named Gerald freed F, R, E, E, D, did a film score and got the whole thing finished for $3,900 and then when we began to take it around to the various companies just to sell it, they all liked it. But we're offered things like $1,500, $2,500 and so forth. And yeah..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "e5c8f925-4176-48ea-b42d-1a97b4febad1"
+    },
+    {
+      "start_time": 900,
+      "end_time": 903,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This was, by the way, when you were still age 21 roughly"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "9c08a07e-429c-4ef0-bf88-67cecff8c074"
+    },
+    {
+      "start_time": 903,
+      "end_time": 939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, less than that. I did this about, oh, I'd say, maybe nine months before I quit. Look, about 20 plus. And at one point I said to them, you know, Christ, why? Why are you offering us so little for this, you know, one real shorts, you know, get more than $40,000 and they said, What? You must be crazy. And I said, Why do you think that? And so I told them about the march of time. And anyway, they said it was, you know, was ridiculous. And shortly after that, the march of time went out of business "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "51ea1845-5185-4fe2-a3ef-7d09f731b9a4"
+    },
+    {
+      "start_time": 939,
+      "end_time": 939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughs"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Laughter"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "e38b7e3b-0306-4920-a862-deb57398087f"
+    },
+    {
+      "start_time": 939,
+      "end_time": 1014,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "for the reason we later found out that they were spending approximately, I mean, you know, if the march of time serves me for this, Alex somehow found out, when he was working there, that it was costing 40,000 bucks to make one of their corn realers, and they went out of business. Well, anyway, I finally sold the film to RKO Pathé, who are no longer in business either, and sold it for about $100 less than it cost me to make it. I know it was a small loss, but I had the pleasure of seeing it shown. And, you know, I remember I went to the Paramount Theater where it was playing with some Ava Gardner Robert mission picture. And you know, it was very exciting to see it on the screen. And it got a nationwide, nationwide and worldwide distribution. And so I thought everybody liked it, and they thought it was good. And I thought that this would be I'd get millions of offers on which I got none to do anything. So I made another documentary, this time about a flying priest."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "4d75e955-24d0-493a-9c9f-2b4aa0c33a5c"
+    },
+    {
+      "start_time": 1014,
+      "end_time": 1037,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I forgot father Stott Muller, or something in New Mexico, who flew a Piper Cub around to Indian parishes. I know RKO thought it was a colorful subject, and so I went there and pretty much on my own, again, made this short, and still, you know, nothing was happening. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "9f13566d-da5f-4f64-9de3-836c5ace4bd1"
+    },
+    {
+      "start_time": 1037,
+      "end_time": 1038,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "were they supporting you for this? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "07c27d4e-0828-4c9a-9cd5-4942e9686311"
+    },
+    {
+      "start_time": 1038,
+      "end_time": 1080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, they gave me $1,500, and of which I had to pay for the film, the travel and everything. I made nothing. I think I lost money on that too, but I had been making a reasonably good salary at look, for four years. So I had a certain amount of money, and I was still working. So then I quit, Look. Because I decided that, there obviously wasn't any money in shorts, but that I then found out how much feature films were being made for. And, you know, millions. And I had calculated that I could make a feature film for about $10,000"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "462e9cc9-4211-46ba-af27-54e4d05813f7"
+    },
+    {
+      "start_time": 1080,
+      "end_time": 1082,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "well, how did your, how did you calculate that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "f7f9b790-9458-4571-a6de-d26dd8c6ccae"
+    },
+    {
+      "start_time": 1082,
+      "end_time": 1104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, again, by, you know, projecting the amount of film I'd shoot, figuring that I could get actors to work for practically nothing, you know, work with. I mean, at this point, I was the whole crew, cameraman, Assistant cameraman, you know, Director, everything. So I had no cost. So a friend of mine in the village. Did a script. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "2937f64f-e086-47b4-9ba5-1bf3f415c9f0"
+    },
+    {
+      "start_time": 1104,
+      "end_time": 1106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Were you living in the village?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "81b7fe52-5f5a-4dfa-b4e7-95a608ba770f"
+    },
+    {
+      "start_time": 1106,
+      "end_time": 1170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was living on 16th Street, off Sixth Avenue, and he, he did a script which was terrible, sort of dull, un dramatic, but very, very serious, allegorical story about four soldiers from an unnamed country lost behind enemy lines, trying to find their way home again, and it had lines in it, like we spend our lives running our fingers down the lists of names and addresses, looking for our real no running our name fingers down, the lists of something or other, looking for our real names or our real addresses. I can't remember what the line is, but it was that kind of a thing, you know. And of course, I totally failed to recognize the what I didn't know about making films or anything, you know? I just thought, well, these are the two things that turn out pretty well, but they were documentaries. And"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "e9b9ef7f-1a64-404c-b45b-2d1034d1aaca"
+    },
+    {
+      "start_time": 1170,
+      "end_time": 1172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the second thing, it turned out pretty well,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "b02f366a-6440-41c3-b062-b443686111cd"
+    },
+    {
+      "start_time": 1172,
+      "end_time": 1206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, but I didn't really know what I didn't know. And I thought, well, Christ, there really is, can't be very much more to making a feature film, and I certainly couldn't make one worse than the films that I kept seeing every week and but I wasn't satisfied to just make a, you know, an interesting film. I wanted it to be a very poetic and meaningful film. And it was a little bit like the Thurber story about the midget, you know, who wouldn't take the bass on balls..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "e1ba4f8f-82f2-454a-bbdb-3dea7351c21a"
+    },
+    {
+      "start_time": 1206,
+      "end_time": 1207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughs"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Laughter"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "53858176-2a6e-4f2f-be52-1d68e4d212da"
+    },
+    {
+      "start_time": 1207,
+      "end_time": 1255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "... and decided to swing, you know. And so it, I got the film made, and but it was a very, very dull, and it got an art house distribution. It was called Fear and Desire, distributed by Joseph Burston, who was the at one time, I think he was a distributor who first brought in Rossellini's pictures. It got a few reasonably good reviews. It got a nice blurb from Mark Van Doren, and who was very kind about it. And it had a few, you know, it had a few good moments in it. But with the exception of one or two of the actors, they were all terrible actors. And I knew nothing about directing any actors."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "be49abf5-d9a1-4fbd-8115-4aa711faa0fb"
+    },
+    {
+      "start_time": 1255,
+      "end_time": 1259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How did you go about directing them? Just, sort of,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "5de73090-9db2-45ae-9cb3-55541a07961c"
+    },
+    {
+      "start_time": 1259,
+      "end_time": 1261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well… I… don't remember"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "0eafb5a6-db62-4faf-90c3-da5989d1033d"
+    },
+    {
+      "start_time": 1261,
+      "end_time": 1262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughs"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Laughter"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "0e045b14-a467-46b6-9444-644b689f5a45"
+    },
+    {
+      "start_time": 1262,
+      "end_time": 1293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you know, it was really, you know, just,  it was really just, well, actually, from some of the so called professional efforts I've subsequently seen, you know, people doing, I would say I didn't go about it that much differently than a lot of people do. But I didn't really know anything, you know, but there were, there were some good moments in it, and as I say, it even got a few good reviews, but it never, never returned a penny of its investment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "f205cc00-28b7-4c74-b605-05f37d0f4356"
+    },
+    {
+      "start_time": 1293,
+      "end_time": 1297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Was this your own dough? You put up? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "bf8ccc7e-751a-417a-9294-1d19378c9274"
+    },
+    {
+      "start_time": 1297,
+      "end_time": 1372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I raised the money privately. And then, while this picture was took a long time to edit the film and get all the you know, the thing done, I spent over a year and it opened at the guild Theater in New York, and it was pretty apparent, you know, that it was terrible, you know. And while it was still playing, I decided, Well, I'd better, I'd better get another script very fast and try to promote some more money on the strength of the just the fact that the thing was playing, because I It wasn't apparent to me how I was going to earn a living or do anything you know. And again, not one single offer ever to do anything you know from anybody. So I, in about two weeks, knocked together another script with somebody, and this time it was sort of a reaction to the other one. This was nothing but action sequences and a more sort of mechanically constructed, sort of action gangster plot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "63669eef-3150-47d0-a4e2-14d5cac791c5"
+    },
+    {
+      "start_time": 1372,
+      "end_time": 1381,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Was this was this the time you were also hustling chess standing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Chess"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "d4bc4225-6083-4357-9b24-0797f855ccfa"
+    },
+    {
+      "start_time": 1381,
+      "end_time": 1395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wasn't hustling chess, but I was playing chess for quarters. I mean, I I wasn't a hustler in that. I pretended not to be a good player and and beat people. I just was playing in the park, you know, for quarters, quarter a game."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Chess"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "75faa3c9-0739-4c30-9a49-2346e14b3da3"
+    },
+    {
+      "start_time": 1395,
+      "end_time": 1400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But were you actually, were you doing this for the fun of it? Or were you also hoping to make,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Chess"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "efd0a6a7-644a-4299-ab96-b94ef30ae994"
+    },
+    {
+      "start_time": 1400,
+      "end_time": 1412,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was doing for the fun of it, but I also did make about two or $3 a day, which he really goes a long way. If you're not buying anything except food."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Chess"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        }
+      ],
+      "uuid": "e929d7b8-04eb-418d-8f66-3e90c031281c"
+    },
+    {
+      "start_time": 1412,
+      "end_time": 1421,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "well, you still retain a lot of a lot of acquaintances from that… from that matter?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Chess"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        }
+      ],
+      "uuid": "5fdac416-be47-4559-9302-9e1df2fa6b86"
+    },
+    {
+      "start_time": 1421,
+      "end_time": 86940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "there's only one person, one one friend who I still see, a boy named David Miller, who is a operations research analyst, and who I've remained friendly with. I still know all the people there you know, like Duval and Feldman. And it was a guy named Edmund Peck over. But the the regulars at the park don't change too much."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5c8e9895-c8de-4ce5-b564-c2fc2ed53fbf"
+    }
+  ],
   "set": "Default",
   "event_id": "51b6bf27-9f47-4553-9107-4a3e228c7b01",
   "source_id": "936ba16b-1cec-428c-a298-80b11a4a3464"
