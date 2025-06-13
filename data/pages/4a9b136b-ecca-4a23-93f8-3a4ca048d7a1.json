@@ -92,7 +92,35 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n\n\n\n\n"
+                  "text": "\n\n"
+                }
+              ]
+            },
+            {
+              "uuid": "0700d0fb-00c8-4de1-bcfb-f5e203bb5cb7",
+              "includes": [
+                "media",
+                "description"
+              ],
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\n\n"
                 }
               ]
             }
@@ -142,7 +170,7 @@
   "created_at": "2025-06-13T13:31:38.024Z",
   "created_by": "jackDeVry",
   "title": "Auterism",
-  "updated_at": "2025-06-13T14:22:22.900Z",
+  "updated_at": "2025-06-13T14:26:03.290Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
