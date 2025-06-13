@@ -4,11 +4,12 @@
   "created_by": "jackDeVry",
   "title": "Spartacus (1960)",
   "slug": "spartacus-1960",
-  "updated_at": "2025-06-13T13:33:47.248Z",
+  "updated_at": "2025-06-13T13:37:44.417Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "72bbe692-f61f-4b26-96e8-866576d41b7e"
-  }
+  },
+  "parent": "f1e1ebf1-d997-42ee-a711-e78a58c14d45"
 }
