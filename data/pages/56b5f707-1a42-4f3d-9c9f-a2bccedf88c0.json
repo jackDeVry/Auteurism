@@ -4,11 +4,12 @@
   "created_by": "jackDeVry",
   "title": "The Killing (1956) Film",
   "slug": "the-killing-1956-film",
-  "updated_at": "2025-06-13T13:33:47.044Z",
+  "updated_at": "2025-06-13T13:36:43.273Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "400b583d-8aba-4dd4-926c-af7829750f00"
-  }
+  },
+  "parent": "f1e1ebf1-d997-42ee-a711-e78a58c14d45"
 }
