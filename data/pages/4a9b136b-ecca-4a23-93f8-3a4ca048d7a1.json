@@ -1,9 +1,148 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What Is an Auteur?",
+                  "bold": true,
+                  "textSize": "heading-two"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Auteur",
+                  "italic": true
+                },
+                {
+                  "text": " (noun): A filmmaker whose personal vision, thematic preoccupations, and stylistic signature are so distinctive and consistent that they are regarded as the true author of their films."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In a cinematic landscape increasingly dominated by formulaic blockbusters, recycled franchises, and corporate storytelling, the term "
+                },
+                {
+                  "text": "auteur",
+                  "italic": true
+                },
+                {
+                  "text": " stands as a kind of rebellion. It is a title reserved for those rare filmmakers who treat cinema not just as entertainment, but as a personal, expressive art form—those who imbue their films with a distinct voice, an unmistakable fingerprint."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This project is a journey into the world of such filmmakers. It’s not a rejection of popular cinema per se, but a celebration of the directors who strive for something more—who push the boundaries of narrative, form, and visual language. These are the artists who turn celluloid (or digital) into canvas."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "From the meticulous control of Stanley Kubrick to the lyrical compositions of Akira Kurosawa, from the vibrant formalism of Wes Anderson to the politically charged storytelling of Tomás Gutiérrez Alea, the auteurs featured in this project represent a diverse and global spectrum of artistic vision. Each one, in their own way, redefines what cinema can be."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This compilation is not meant to be definitive, but personal—a curated exploration of those whose work lingers long after the credits roll, whose influence shapes the future of film as much as it reflects their own obsessions, aesthetics, and ideas."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\n\n\n\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://miro.medium.com/v2/resize:fit:840/1*oGtJQ6pcuEZMo9A1SEUAJA.jpeg",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-06-13T13:31:38.024Z",
   "created_by": "jackDeVry",
   "title": "Auterism",
-  "updated_at": "2025-06-13T14:07:09.484Z",
+  "updated_at": "2025-06-13T14:22:22.900Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
