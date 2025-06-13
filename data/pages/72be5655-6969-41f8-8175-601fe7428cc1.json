@@ -4,11 +4,12 @@
   "created_by": "jackDeVry",
   "title": "A Clockwork Orange (1971)",
   "slug": "a-clockwork-orange-1971",
-  "updated_at": "2025-06-13T13:33:47.384Z",
+  "updated_at": "2025-06-13T13:37:26.387Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "94edcebd-9590-42cc-b622-b3b7a5ca102f"
-  }
+  },
+  "parent": "f1e1ebf1-d997-42ee-a711-e78a58c14d45"
 }
