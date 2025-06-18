@@ -23,7 +23,13 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": false,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "tanyaclement",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -55,7 +61,7 @@
       ]
     },
     "created_at": "2025-06-13T13:31:37.992Z",
-    "updated_at": "2025-06-18T14:53:44.764Z",
+    "updated_at": "2025-06-18T14:54:02.778Z",
     "generate_pages_site": true
   },
   "annotations": {},
