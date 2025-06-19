@@ -268,7 +268,35 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Perhaps my favorite documentary on Stanley Kubrick, which there are many, would be the French-produced Kubrick by Kubrick:"
+          "text": "Perhaps my favorite documentary about Stanley Kubrick, of which there are many, is the French-produced \"Kubrick by Kubrick.\" The entire documentary consists of archival interviews with him, and it truly is astonishing how much thought he puts into every film. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "7911ed18-ac0d-4a0d-9bb6-e6aa3ba21238",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -305,6 +333,6 @@
   "slug": "stanley-kubrick-1928-1999",
   "created_at": "2025-06-13T13:36:05.648Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-06-19T18:57:21.258Z",
+  "updated_at": "2025-06-19T18:59:53.300Z",
   "updated_by": "jackDeVry"
 }
