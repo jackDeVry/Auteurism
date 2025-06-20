@@ -4,11 +4,12 @@
   "created_by": "jackDeVry",
   "title": "Death Of A Bureaucrat (1966)",
   "slug": "death-of-a-bureaucrat-1966",
-  "updated_at": "2025-06-20T13:18:18.949Z",
+  "updated_at": "2025-06-20T13:18:39.785Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "e73042bf-2ef8-4eb9-a6fd-882ffd281d93"
-  }
+  },
+  "parent": "81c54510-8e77-4749-91fc-d921e64cb40a"
 }
