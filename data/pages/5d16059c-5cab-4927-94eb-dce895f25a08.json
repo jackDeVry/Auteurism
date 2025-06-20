@@ -1,0 +1,78 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Stanley Kubrick is renowned for his meticulous attention to detail, his willingness to shoot a scene dozens of times, and his relentless pursuit of excellence from everyone involved in his productions. For me, though, what truly sets Kubrick apart as both an icon and an auteur are his endings. They are unpredictable, often unsettling, and always thought-provoking. He never hesitates to leave audiences with ambiguity or questions that linger long after the credits roll. Whether it’s the cryptic, transcendent finale of "
+        },
+        {
+          "text": "2001: A Space Odyssey",
+          "italic": true
+        },
+        {
+          "text": " or, as highlighted on this page, the unforgettable and darkly comic ending of "
+        },
+        {
+          "text": "Dr. Strangelove",
+          "italic": true
+        },
+        {
+          "text": ", Kubrick’s conclusions are integral to his lasting impact on cinema."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "d1be1615-47a0-4505-9a3e-f3cf7436ebba",
+      "includes": [
+        "media",
+        "label",
+        "description"
+      ],
+      "start": 4856,
+      "end": 5277,
+      "file": "ec1c1ad0-efa7-4558-b824-7e9397dad940",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "One of Stanley Kubrick's Most Iconic Scenes ",
+  "parent": "f1e1ebf1-d997-42ee-a711-e78a58c14d45",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "one-of-stanley-kubricks-most-iconic-scenes",
+  "created_at": "2025-06-20T13:43:35.627Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-06-20T13:43:35.627Z",
+  "updated_by": "jackDeVry"
+}
