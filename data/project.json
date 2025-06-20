@@ -1,1 +1,87 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"jackDeVry","avatar_url":"https://avatars.githubusercontent.com/u/181752547?v=4","admin":true}],"project":{"github_org":"jackDeVry","is_private":false,"title":"Auteurism","description":"What Is an Auteur?\n\nAuteur (noun): A filmmaker whose personal vision, thematic preoccupations, and stylistic signature are so distinctive and consistent that they are regarded as the true author of their films.\n\nIn a cinematic landscape increasingly dominated by formulaic blockbusters, recycled franchises, and corporate storytelling, the term auteur stands as a kind of rebellion. It is a title reserved for those rare filmmakers who treat cinema not just as entertainment, but as a personal, expressive art form—those who imbue their films with a distinct voice, an unmistakable fingerprint.\n\nThis project is a journey into the world of such filmmakers. It’s not a rejection of popular cinema per se, but a celebration of the directors who strive for something more—who push the boundaries of narrative, form, and visual language. These are the artists who turn celluloid (or digital) into canvas.\n\nFrom the meticulous control of Stanley Kubrick to the lyrical compositions of Akira Kurosawa, from the vibrant formalism of Wes Anderson to the politically charged storytelling of Tomás Gutiérrez Alea, the auteurs featured in this project represent a diverse and global spectrum of artistic vision. Each one, in their own way, redefines what cinema can be.\n\nThis compilation is not meant to be definitive, but personal—a curated exploration of those whose work lingers long after the credits roll, whose influence shapes the future of film as much as it reflects their own obsessions, aesthetics, and ideas.","language":"en","slug":"Auteurism","creator":"jackDeVry","authors":"","media_player":"avannotate","auto_populate_home_page":false,"additional_users":[{"login_name":"tanyaclement","avatar_url":"https://avatars.githubusercontent.com/u/1213771?v=4","admin":false}],"tags":{"tagGroups":[{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"category":"_uncategorized_","tag":"Transcript"},{"category":"_uncategorized_","tag":"Stanley Kubrick"},{"category":"_uncategorized_","tag":"Jeremy Bernstein"},{"category":"_uncategorized_","tag":"Laughter"},{"category":"_uncategorized_","tag":"Chess"}]},"created_at":"2025-06-13T13:31:37.992Z","updated_at":"2025-06-20T13:18:18.974Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"4a9b136b-ecca-4a23-93f8-3a4ca048d7a1":{"content":[],"created_at":"2025-06-13T13:31:38.024Z","created_by":"jackDeVry","title":"Auterism","updated_at":"2025-06-13T13:31:38.024Z","updated_by":"jackDeVry","autogenerate":{"enabled":false,"type":"home"}}},"pageOrder":["4a9b136b-ecca-4a23-93f8-3a4ca048d7a1"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "jackDeVry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181752547?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "jackDeVry",
+    "is_private": false,
+    "title": "Auteurism",
+    "description": "What Is an Auteur?\n\nAuteur (noun): A filmmaker whose personal vision, thematic preoccupations, and stylistic signature are so distinctive and consistent that they are regarded as the true author of their films.\n\nIn a cinematic landscape increasingly dominated by formulaic blockbusters, recycled franchises, and corporate storytelling, the term auteur stands as a kind of rebellion. It is a title reserved for those rare filmmakers who treat cinema not just as entertainment, but as a personal, expressive art form—those who imbue their films with a distinct voice, an unmistakable fingerprint.\n\nThis project is a journey into the world of such filmmakers. It’s not a rejection of popular cinema per se, but a celebration of the directors who strive for something more—who push the boundaries of narrative, form, and visual language. These are the artists who turn celluloid (or digital) into canvas.\n\nFrom the meticulous control of Stanley Kubrick to the lyrical compositions of Akira Kurosawa, from the vibrant formalism of Wes Anderson to the politically charged storytelling of Tomás Gutiérrez Alea, the auteurs featured in this project represent a diverse and global spectrum of artistic vision. Each one, in their own way, redefines what cinema can be.\n\nThis compilation is not meant to be definitive, but personal—a curated exploration of those whose work lingers long after the credits roll, whose influence shapes the future of film as much as it reflects their own obsessions, aesthetics, and ideas.",
+    "language": "en",
+    "slug": "Auteurism",
+    "creator": "jackDeVry",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [
+      {
+        "login_name": "tanyaclement",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Kubrick"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jeremy Bernstein"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Laughter"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Chess"
+        }
+      ]
+    },
+    "created_at": "2025-06-13T13:31:37.992Z",
+    "updated_at": "2025-06-20T13:18:32.666Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "4a9b136b-ecca-4a23-93f8-3a4ca048d7a1": {
+      "content": [],
+      "created_at": "2025-06-13T13:31:38.024Z",
+      "created_by": "jackDeVry",
+      "title": "Auterism",
+      "updated_at": "2025-06-13T13:31:38.024Z",
+      "updated_by": "jackDeVry",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "4a9b136b-ecca-4a23-93f8-3a4ca048d7a1"
+  ]
+}

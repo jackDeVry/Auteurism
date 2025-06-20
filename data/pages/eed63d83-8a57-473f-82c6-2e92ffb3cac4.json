@@ -4,11 +4,12 @@
   "created_by": "jackDeVry",
   "title": "The Twelve Chairs (1962)",
   "slug": "the-twelve-chairs-1962",
-  "updated_at": "2025-06-20T13:17:34.292Z",
+  "updated_at": "2025-06-20T13:18:32.391Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "d9bfeb31-116e-4034-8590-811f061c8385"
-  }
+  },
+  "parent": "81c54510-8e77-4749-91fc-d921e64cb40a"
 }
