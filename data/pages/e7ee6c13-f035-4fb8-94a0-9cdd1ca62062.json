@@ -1,0 +1,96 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tomás Gutiérrez Alea can be considered an auteur not only for his formal innovation but for his thematic boldness and the nuanced perspective he brought to Cuban cinema during a time when few dared to challenge dominant narratives. In many of his early works, he incorporates cut-out animation, a distinctive visual technique that became a recognizable part of his artistic vocabulary. While this style may be most familiar to American audiences through its use in "
+        },
+        {
+          "text": "Monty Python",
+          "italic": true
+        },
+        {
+          "text": " sketches or the television series "
+        },
+        {
+          "text": "South Park",
+          "italic": true
+        },
+        {
+          "text": ", Alea employed it in sharply political and often ironic ways. Below are two examples that showcase how he used cut-out animation as a creative and critical tool within his broader cinematic language."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "includes": [
+        "media",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "e73042bf-2ef8-4eb9-a6fd-882ffd281d93",
+        "start": 303,
+        "end": 405,
+        "file": "bdf11f57-efab-491b-9be3-015bbed95f54",
+        "type": "Video"
+      },
+      "event2": {
+        "uuid": "d9bfeb31-116e-4034-8590-811f061c8385",
+        "start": 27,
+        "end": 252,
+        "file": "51a5d20e-4beb-4381-a9ba-47ecb0c425e6",
+        "type": "Video"
+      },
+      "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Cut-out animation in Alea's Cinema",
+  "parent": "81c54510-8e77-4749-91fc-d921e64cb40a",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "cut-out-animation-in-aleas-cinema",
+  "created_at": "2025-06-20T13:32:53.103Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-06-20T13:32:53.103Z",
+  "updated_by": "jackDeVry"
+}
