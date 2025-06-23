@@ -4,11 +4,12 @@
   "created_by": "jackDeVry",
   "title": "Interview with Tomás Gutiérrez Alea ",
   "slug": "interview-with-tomas-gutierrez-alea",
-  "updated_at": "2025-06-23T17:40:38.299Z",
+  "updated_at": "2025-06-23T18:00:23.591Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "b1e54cb9-d2b3-4635-97bb-593d643d34c0"
-  }
+  },
+  "parent": "81c54510-8e77-4749-91fc-d921e64cb40a"
 }
