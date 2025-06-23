@@ -1,0 +1,30 @@
+{
+  "audiovisual_files": {
+    "cb1f917c-8008-4dea-8479-6623b6fec7b0": {
+      "label": "Interview with Tomás Gutiérrez Alea",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=YjObbSH4gB0&ab_channel=JacoboAsse",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Interview with Tomás Gutiérrez Alea ",
+  "created_at": "2025-06-23T17:40:37.880Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-06-23T17:40:37.880Z",
+  "updated_by": "jackDeVry"
+}
