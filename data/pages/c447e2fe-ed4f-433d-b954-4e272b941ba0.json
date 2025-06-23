@@ -4,11 +4,12 @@
   "created_by": "jackDeVry",
   "title": "El Mégano (1955)",
   "slug": "el-megano-1955",
-  "updated_at": "2025-06-23T17:32:52.089Z",
+  "updated_at": "2025-06-23T18:00:15.248Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "6dbada98-fbb4-492e-9ec6-8ed51488812a"
-  }
+  },
+  "parent": "81c54510-8e77-4749-91fc-d921e64cb40a"
 }
