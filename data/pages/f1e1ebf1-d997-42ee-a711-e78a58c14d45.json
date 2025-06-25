@@ -120,7 +120,21 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Kubrick’s early films, including Fear and Desire and Killer’s Kiss, hinted at his fascination with structure and ambiguity. The Killing, his 1956 breakthrough, introduced a fractured timeline and tightly controlled aesthetic that immediately set him apart. With Paths of Glory, he moved into political and ethical terrain, exploring the machinery of war and injustice with stark moral clarity. These early films earned him critical attention and paved the way for larger projects."
+          "text": "Kubrick’s early films, including "
+        },
+        {
+          "text": "Fear and Desire",
+          "italic": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Killer’s Kiss",
+          "italic": true
+        },
+        {
+          "text": ", hinted at his fascination with structure and ambiguity. The Killing, his 1956 breakthrough, introduced a fractured timeline and tightly controlled aesthetic that immediately set him apart. With Paths of Glory, he moved into political and ethical terrain, exploring the machinery of war and injustice with stark moral clarity. These early films earned him critical attention and paved the way for larger projects."
         }
       ]
     },
@@ -128,7 +142,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Although Spartacus brought commercial success, it lacked the creative freedom Kubrick demanded. He reclaimed that freedom with Lolita, a dark and subversive adaptation of Nabokov’s novel. He followed with Dr. Strangelove, a Cold War satire that turned nuclear anxiety into a surreal and unforgettable comedy. Peter Sellers’ multiple roles and the film’s bold tone revealed Kubrick’s capacity to merge performance, politics, and style in a way few directors had done before."
+          "text": "Although Spartacus brought commercial success, it lacked the creative freedom Kubrick demanded. He reclaimed that freedom with Lolita, a dark and subversive adaptation of Nabokov’s novel. He followed with "
+        },
+        {
+          "text": "Dr. Strangelove",
+          "italic": true
+        },
+        {
+          "text": ", a Cold War satire that turned nuclear anxiety into a surreal and unforgettable comedy. Peter Sellers’ multiple roles and the film’s bold tone revealed Kubrick’s capacity to merge performance, politics, and style in a way few directors had done before."
         }
       ]
     },
@@ -268,7 +289,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Perhaps my favorite documentary about Stanley Kubrick, of which there are many, is the French-produced \"Kubrick by Kubrick.\" The entire documentary consists of archival interviews with him, and it truly is astonishing how much thought he puts into every film. "
+          "text": "Perhaps my favorite documentary about Stanley Kubrick, of which there are many, is Stanley Kubrick A Life in Pictures (2001)."
         }
       ]
     },
@@ -281,19 +302,19 @@
       ]
     },
     {
-      "uuid": "7911ed18-ac0d-4a0d-9bb6-e6aa3ba21238",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "82587444-1249-4de0-aca9-cd8a5ce73c93",
       "includes": [
         "media"
       ],
       "type": "event",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -333,6 +354,6 @@
   "slug": "stanley-kubrick-1928-1999",
   "created_at": "2025-06-13T13:36:05.648Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-06-19T19:06:23.907Z",
+  "updated_at": "2025-06-25T15:34:02.205Z",
   "updated_by": "jackDeVry"
 }
