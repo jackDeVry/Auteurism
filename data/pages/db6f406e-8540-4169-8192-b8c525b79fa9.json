@@ -168,7 +168,43 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Compare this to a Marvel superhero movie. While competent and often entertaining, these films typically lack a singular stylistic identity. The director’s touch is minimized in favor of a brand or studio aesthetic. The result is entertainment driven by committee—not personal expression. In contrast, auteurs like Kubrick or Anderson treat cinema as an art form, not just a storytelling vehicle. Their films may entertain, but their primary goal is often creative exploration, formal experimentation, or philosophical inquiry."
+          "text": "Compare this to a Marvel superhero movie. While competent and often entertaining, these films typically lack a singular stylistic identity (see video below to better understand this difference between Cinema & Content). The director’s touch is minimized in favor of a brand or studio aesthetic. The result is entertainment driven by committee—not personal expression. In contrast, auteurs like Kubrick or Anderson treat cinema as an art form, not just a storytelling vehicle. Their films may entertain, but their primary goal is often creative exploration, formal experimentation, or philosophical inquiry."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "5b48ecaf-89ca-4ebd-a650-e7cdc3378231",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -214,6 +250,6 @@
   "slug": "brief-essay-the-origins-of-auteur-theory-the",
   "created_at": "2025-06-19T14:55:29.171Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-06-19T19:02:08.216Z",
+  "updated_at": "2025-06-25T13:10:42.784Z",
   "updated_by": "jackDeVry"
 }
