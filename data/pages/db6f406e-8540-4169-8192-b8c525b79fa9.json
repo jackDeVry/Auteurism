@@ -202,7 +202,23 @@
                   "italic": true
                 },
                 {
-                  "text": ", vol. 16, no. 3, 1963, pp. 12–26.\n\nSarris, Andrew. “Notes on the Auteur Theory in 1962.” "
+                  "text": ", vol. 16, no. 3, 1963, pp. 12–26."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Sarris, Andrew. “Notes on the Auteur Theory in 1962.” "
                 },
                 {
                   "text": "Film Culture",
@@ -216,7 +232,23 @@
                   "italic": true
                 },
                 {
-                  "text": ", edited by Leo Braudy and Marshall Cohen, 7th ed., Oxford UP, 2009, pp. 561–564.\n\nTruffaut, François. “A Certain Tendency of the French Cinema.” "
+                  "text": ", edited by Leo Braudy and Marshall Cohen, 7th ed., Oxford UP, 2009, pp. 561–564."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Truffaut, François. “A Certain Tendency of the French Cinema.” "
                 },
                 {
                   "text": "Cahiers du Cinéma",
@@ -281,7 +313,8 @@
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "scale": 75
             },
             {
               "type": "paragraph",
@@ -299,7 +332,8 @@
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "scale": 75
             },
             {
               "type": "paragraph",
@@ -331,6 +365,6 @@
   "slug": "brief-essay-the-origins-of-auteur-theory-the",
   "created_at": "2025-06-19T14:55:29.171Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-06-27T15:09:28.894Z",
+  "updated_at": "2025-06-27T15:14:47.824Z",
   "updated_by": "jackDeVry"
 }
