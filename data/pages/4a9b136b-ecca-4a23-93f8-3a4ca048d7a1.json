@@ -128,6 +128,48 @@
               ]
             },
             {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This project is composed and exhibits 3 filmmakers:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Stanley Kubrick",
+                  "link": "https://jackdevry.github.io/Auteurism/pages/stanley-kubrick-1928-1999/"
+                },
+                {
+                  "text": ", "
+                },
+                {
+                  "text": "Tomás Gutiérrez Alea",
+                  "link": "https://jackdevry.github.io/Auteurism/pages/tomas-gutierrez-titon-alea-1928-1996/"
+                },
+                {
+                  "text": ", and "
+                },
+                {
+                  "text": "Wes Anderson",
+                  "link": "https://jackdevry.github.io/Auteurism/pages/wes-anderson-1969-present/"
+                },
+                {
+                  "text": ". "
+                }
+              ]
+            },
+            {
               "type": "Video",
               "uuid": "0700d0fb-00c8-4de1-bcfb-f5e203bb5cb7",
               "includes": [
@@ -243,7 +285,7 @@
   "created_at": "2025-06-13T13:31:38.024Z",
   "created_by": "jackDeVry",
   "title": "Auteurism",
-  "updated_at": "2025-06-25T15:32:19.739Z",
+  "updated_at": "2025-06-30T16:15:16.564Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
