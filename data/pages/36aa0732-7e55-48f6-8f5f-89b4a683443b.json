@@ -9,11 +9,9 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "82587444-1249-4de0-aca9-cd8a5ce73c93",
       "includes": [
         "media",
-        "annotations",
         "description"
       ],
       "children": [
@@ -35,7 +33,7 @@
   "created_by": "jackDeVry",
   "title": "Stanley Kubrick A Life in Pictures (2001)",
   "slug": "stanley-kubrick-a-life-in-pictures-2001",
-  "updated_at": "2025-06-30T18:58:37.869Z",
+  "updated_at": "2025-06-30T19:01:08.527Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
