@@ -9,11 +9,9 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "94edcebd-9590-42cc-b622-b3b7a5ca102f",
       "includes": [
         "media",
-        "annotations",
         "description"
       ],
       "children": [
@@ -35,7 +33,7 @@
   "created_by": "jackDeVry",
   "title": "A Clockwork Orange (1971)",
   "slug": "a-clockwork-orange-1971",
-  "updated_at": "2025-06-30T18:58:29.481Z",
+  "updated_at": "2025-06-30T19:00:22.676Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
