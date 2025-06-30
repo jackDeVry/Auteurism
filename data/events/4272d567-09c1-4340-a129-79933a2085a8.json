@@ -31,9 +31,13 @@
     }
   ],
   "citation": "",
-  "label": "Bottle Rocket ",
+  "label": "Bottle Rocket Documentary & Audio Commentary",
   "created_at": "2025-06-30T15:29:59.228Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-06-30T15:29:59.228Z",
-  "updated_by": "jackDeVry"
+  "updated_at": "2025-06-30T15:40:53.849Z",
+  "updated_by": "jackDeVry",
+  "av_file_order": [
+    "000418c0-8552-45fb-9ad1-b49134ed81e3",
+    "e5fbc6b3-fe1f-4bdb-b1b5-d37d8c22ece6"
+  ]
 }
