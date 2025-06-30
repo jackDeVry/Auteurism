@@ -12,14 +12,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "When we talk about the concept of the auteur in cinema, few names appear more consistently than Stanley Kubrick. Across academic criticism, film studies, and popular conversations, Kubrick stands as a definitive example of what it means for a director to be the primary creative voice behind a film. His work crosses genres, generations, and national borders, but each of his films carries a distinct signature. Kubrick did not simply direct movies; he shaped them according to a singular vision that is both rigorous and deeply philosophical."
         }
       ]
@@ -333,6 +325,16 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Materials included within this Project: ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
           "text": ""
         }
       ]
@@ -341,7 +343,267 @@
       "type": "paragraph",
       "children": [
         {
+          "bold": true,
+          "text": "Custom Page:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Stanley Kubrick and His Endings",
+          "link": "https://jackdevry.github.io/Auteurism/pages/stanley-kubrick-and-his-endings/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://jackdevry.github.io/Auteurism/pages/stanley-kubrick-and-his-endings/",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Interview:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://jackdevry.github.io/Auteurism/pages/stanley-kubrick-and-his-endings/",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://jackdevry.github.io/Auteurism/events/stanley-kubrick-interview-1965/",
+          "text": "Stanley Kubrick 1965 Interview with Jeremy Bernstein"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://jackdevry.github.io/Auteurism/events/stanley-kubrick-interview-1965/",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Critical Review:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://jackdevry.github.io/Auteurism/events/stanley-kubrick-interview-1965/",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://jackdevry.github.io/Auteurism/pages/film-review-stanley-strangelove-by-pauline-k/",
+          "text": "Film Review by Pauline Kale: Stanley Strangelove (1972)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://jackdevry.github.io/Auteurism/pages/film-review-stanley-strangelove-by-pauline-k/",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Films:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://jackdevry.github.io/Auteurism/pages/film-review-stanley-strangelove-by-pauline-k/",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Killing (1956)",
+          "link": "https://jackdevry.github.io/Auteurism/events/the-killing-1956/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://jackdevry.github.io/Auteurism/pages/film-review-stanley-strangelove-by-pauline-k/",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://jackdevry.github.io/Auteurism/events/paths-of-glory-1957/",
+          "text": "Paths of Glory (1957)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://jackdevry.github.io/Auteurism/events/stanley-kubrick-interview-1965/",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://jackdevry.github.io/Auteurism/events/dr-strangelove-or-how-i-learned-to-stop-wor/",
+          "text": "Dr. Strangelove, or: How I Learned to Stop Worrying and Love the Bomb (1964)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A Clockwork Orange (1971) ",
+          "link": "https://jackdevry.github.io/Auteurism/events/a-clockwork-orange-1971/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Barry Lyndon (1975)",
+          "link": "https://jackdevry.github.io/Auteurism/events/barry-lyndon-1975/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://jackdevry.github.io/Auteurism/events/barry-lyndon-1975/",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://jackdevry.github.io/Auteurism/events/eyes-wide-shut-1999/",
+          "text": "Eyes Wide Shut (1999)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "\n"
+        },
+        {
+          "text": "Documentary:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Stanley Kubrick A Life in Pictures (2001)",
+          "link": "https://jackdevry.github.io/Auteurism/events/stanley-kubrick-a-life-in-pictures-2001/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     }
@@ -354,6 +616,6 @@
   "slug": "stanley-kubrick-1928-1999",
   "created_at": "2025-06-13T13:36:05.648Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-06-25T15:34:02.205Z",
+  "updated_at": "2025-06-30T15:54:16.536Z",
   "updated_by": "jackDeVry"
 }
