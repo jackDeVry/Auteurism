@@ -4,11 +4,12 @@
   "created_by": "jackDeVry",
   "title": "Bottle Rocket ",
   "slug": "bottle-rocket",
-  "updated_at": "2025-06-30T15:29:59.634Z",
+  "updated_at": "2025-06-30T15:30:33.825Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "4272d567-09c1-4340-a129-79933a2085a8"
-  }
+  },
+  "parent": "512cccb6-9551-4eed-a612-d49204ab922e"
 }
