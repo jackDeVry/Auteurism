@@ -4,11 +4,12 @@
   "created_by": "jackDeVry",
   "title": "The Grand Budapest Hotel (2014)",
   "slug": "the-grand-budapest-hotel-2014",
-  "updated_at": "2025-06-30T15:03:01.506Z",
+  "updated_at": "2025-06-30T15:26:50.660Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "1a867cab-fae8-48c6-b638-60bf019a4586"
-  }
+  },
+  "parent": "512cccb6-9551-4eed-a612-d49204ab922e"
 }
