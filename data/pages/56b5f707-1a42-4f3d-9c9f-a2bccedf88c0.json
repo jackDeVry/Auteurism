@@ -9,11 +9,9 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "400b583d-8aba-4dd4-926c-af7829750f00",
       "includes": [
         "media",
-        "annotations",
         "description"
       ],
       "children": [
@@ -35,7 +33,7 @@
   "created_by": "jackDeVry",
   "title": "The Killing (1956) ",
   "slug": "the-killing-1956",
-  "updated_at": "2025-06-30T18:58:51.625Z",
+  "updated_at": "2025-06-30T18:59:19.050Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
