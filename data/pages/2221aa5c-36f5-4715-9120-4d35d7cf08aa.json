@@ -9,11 +9,9 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "7c12b7ce-a493-4706-994e-f201b5873c15",
       "includes": [
         "media",
-        "annotations",
         "description"
       ],
       "children": [
@@ -35,7 +33,7 @@
   "created_by": "jackDeVry",
   "title": "Paths of Glory (1957)",
   "slug": "paths-of-glory-1957",
-  "updated_at": "2025-06-30T18:58:24.080Z",
+  "updated_at": "2025-06-30T18:59:47.642Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
