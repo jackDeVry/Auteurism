@@ -9,11 +9,9 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "e73042bf-2ef8-4eb9-a6fd-882ffd281d93",
       "includes": [
         "media",
-        "annotations",
         "description"
       ],
       "children": [
@@ -35,7 +33,7 @@
   "created_by": "jackDeVry",
   "title": "Death Of A Bureaucrat (1966)",
   "slug": "death-of-a-bureaucrat-1966",
-  "updated_at": "2025-06-30T19:02:59.786Z",
+  "updated_at": "2025-06-30T19:03:23.207Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
