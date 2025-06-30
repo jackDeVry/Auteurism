@@ -9,11 +9,9 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "7f7ad033-5e55-4291-83e1-0ad2d029d013",
       "includes": [
         "media",
-        "annotations",
         "description"
       ],
       "children": [
@@ -35,7 +33,7 @@
   "created_by": "jackDeVry",
   "title": "Barry Lyndon (1975)",
   "slug": "barry-lyndon-1975",
-  "updated_at": "2025-06-30T18:58:32.677Z",
+  "updated_at": "2025-06-30T19:00:37.769Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
