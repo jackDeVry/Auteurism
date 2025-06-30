@@ -9,11 +9,9 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "1a867cab-fae8-48c6-b638-60bf019a4586",
       "includes": [
         "media",
-        "annotations",
         "description"
       ],
       "children": [
@@ -35,7 +33,7 @@
   "created_by": "jackDeVry",
   "title": "The Grand Budapest Hotel (2014)",
   "slug": "the-grand-budapest-hotel-2014",
-  "updated_at": "2025-06-30T19:03:12.306Z",
+  "updated_at": "2025-06-30T19:04:22.117Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
