@@ -9,11 +9,9 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "39b151ff-8570-46e4-8495-2f5e89e40330",
       "includes": [
         "media",
-        "annotations",
         "description"
       ],
       "children": [
@@ -35,7 +33,7 @@
   "created_by": "jackDeVry",
   "title": "Memorias del Subdesarrollo (1968)",
   "slug": "memorias-del-subdesarrollo-1968",
-  "updated_at": "2025-06-30T19:03:04.930Z",
+  "updated_at": "2025-06-30T19:03:54.901Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
