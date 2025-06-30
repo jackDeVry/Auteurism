@@ -35,10 +35,10 @@
   "created_by": "jackDeVry",
   "title": "Stanley Kubrick Interview (1965)",
   "slug": "stanley-kubrick-interview-1965",
-  "updated_at": "2025-06-30T18:58:14.027Z",
+  "updated_at": "2025-06-30T18:58:19.594Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "51b6bf27-9f47-4553-9107-4a3e228c7b01"
   },
