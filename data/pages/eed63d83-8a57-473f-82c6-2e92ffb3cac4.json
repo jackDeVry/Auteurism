@@ -9,11 +9,9 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "d9bfeb31-116e-4034-8590-811f061c8385",
       "includes": [
         "media",
-        "annotations",
         "description"
       ],
       "children": [
@@ -35,7 +33,7 @@
   "created_by": "jackDeVry",
   "title": "The Twelve Chairs (1962)",
   "slug": "the-twelve-chairs-1962",
-  "updated_at": "2025-06-30T19:03:02.251Z",
+  "updated_at": "2025-06-30T19:03:40.208Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
