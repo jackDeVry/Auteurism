@@ -9,11 +9,9 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "07bd39f4-6d3b-475e-87d3-dfca15d0cdaf",
       "includes": [
         "media",
-        "annotations",
         "description"
       ],
       "children": [
@@ -35,7 +33,7 @@
   "created_by": "jackDeVry",
   "title": "Eyes Wide Shut (1999)",
   "slug": "eyes-wide-shut-1999",
-  "updated_at": "2025-06-30T18:58:35.520Z",
+  "updated_at": "2025-06-30T19:00:52.562Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
