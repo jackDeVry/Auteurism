@@ -35,10 +35,10 @@
   "created_by": "jackDeVry",
   "title": "Bottle Rocket (1996) commentary By Wes Anderson & Owen Wilson",
   "slug": "bottle-rocket-1996-commentary-by-wes-anders",
-  "updated_at": "2025-06-30T15:27:17.520Z",
+  "updated_at": "2025-06-30T15:27:33.766Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "2e481be5-65d8-4e76-8d99-a2441cee4c4a"
   }
