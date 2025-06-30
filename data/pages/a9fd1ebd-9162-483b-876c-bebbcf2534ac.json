@@ -4,11 +4,12 @@
   "created_by": "jackDeVry",
   "title": "The Marvelization of Cinema",
   "slug": "the-marvelization-of-cinema",
-  "updated_at": "2025-06-25T13:09:14.443Z",
+  "updated_at": "2025-06-30T14:58:13.692Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "5b48ecaf-89ca-4ebd-a650-e7cdc3378231"
-  }
+  },
+  "parent": "4a9b136b-ecca-4a23-93f8-3a4ca048d7a1"
 }
