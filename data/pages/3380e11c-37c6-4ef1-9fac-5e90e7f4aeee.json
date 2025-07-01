@@ -9,11 +9,21 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "d1be1615-47a0-4505-9a3e-f3cf7436ebba",
       "includes": [
         "media",
+        "label",
         "description"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -33,7 +43,7 @@
   "created_by": "jackDeVry",
   "title": "Dr Strangelove, or: How I Learned to Stop Worrying and Love the Bomb (1964)",
   "slug": "dr-strangelove-or-how-i-learned-to-stop-wor",
-  "updated_at": "2025-06-30T19:00:03.611Z",
+  "updated_at": "2025-07-01T22:39:32.553Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
