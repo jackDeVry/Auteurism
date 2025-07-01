@@ -27,13 +27,35 @@
           "text": ""
         }
       ]
+    },
+    {
+      "uuid": "d9bfeb31-116e-4034-8590-811f061c8385",
+      "includes": [
+        "media",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "created_at": "2025-06-20T13:17:34.292Z",
   "created_by": "jackDeVry",
   "title": "The Twelve Chairs (1962)",
   "slug": "the-twelve-chairs-1962",
-  "updated_at": "2025-06-30T19:03:40.208Z",
+  "updated_at": "2025-07-01T22:44:41.318Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
