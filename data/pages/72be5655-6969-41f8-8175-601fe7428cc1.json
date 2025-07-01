@@ -27,13 +27,35 @@
           "text": ""
         }
       ]
+    },
+    {
+      "uuid": "94edcebd-9590-42cc-b622-b3b7a5ca102f",
+      "includes": [
+        "media",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "created_at": "2025-06-13T13:33:47.384Z",
   "created_by": "jackDeVry",
   "title": "A Clockwork Orange (1971)",
   "slug": "a-clockwork-orange-1971",
-  "updated_at": "2025-06-30T19:00:22.676Z",
+  "updated_at": "2025-07-01T22:39:58.008Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
