@@ -27,13 +27,35 @@
           "text": ""
         }
       ]
+    },
+    {
+      "uuid": "07bd39f4-6d3b-475e-87d3-dfca15d0cdaf",
+      "includes": [
+        "media",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "created_at": "2025-06-13T13:33:47.490Z",
   "created_by": "jackDeVry",
   "title": "Eyes Wide Shut (1999)",
   "slug": "eyes-wide-shut-1999",
-  "updated_at": "2025-06-30T19:00:52.562Z",
+  "updated_at": "2025-07-01T22:40:40.251Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
