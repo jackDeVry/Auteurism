@@ -1,7 +1,11 @@
 {
   "content": [
     {
-      "type": "paragraph",
+      "uuid": "07bd39f4-6d3b-475e-87d3-dfca15d0cdaf",
+      "includes": [
+        "media",
+        "description"
+      ],
       "children": [
         {
           "text": ""
@@ -16,11 +20,7 @@
       ],
       "children": [
         {
-          "text": "Eyes Wide Shut",
-          "bold": true
-        },
-        {
-          "text": " (1999)\n\nDirected by Stanley Kubrick, "
+          "text": "Directed by Stanley Kubrick, "
         },
         {
           "text": "Eyes Wide Shut",
@@ -47,11 +47,17 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "07bd39f4-6d3b-475e-87d3-dfca15d0cdaf",
       "includes": [
-        "media",
-        "label",
-        "description"
+        "media"
       ],
       "type": "event",
       "children": [
@@ -73,7 +79,7 @@
   "created_by": "jackDeVry",
   "title": "Eyes Wide Shut (1999)",
   "slug": "eyes-wide-shut-1999",
-  "updated_at": "2025-07-03T15:04:25.673Z",
+  "updated_at": "2025-07-03T16:23:04.343Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
