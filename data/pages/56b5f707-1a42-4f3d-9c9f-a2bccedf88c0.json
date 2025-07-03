@@ -16,6 +16,29 @@
       ],
       "children": [
         {
+          "text": "The Killing",
+          "bold": true
+        },
+        {
+          "text": " (1956)\n\nDirected by Stanley Kubrick, "
+        },
+        {
+          "text": "The Killing",
+          "italic": true
+        },
+        {
+          "text": " is a taut, noir-inspired heist film that follows a group of small-time criminals as they attempt to rob a racetrack during a major horse race. Led by a recently released ex-con named Johnny Clay, the meticulously planned crime begins to unravel due to human error and personal betrayal. Noted for its non-linear storytelling and precise editing, the film marked Kubrick’s first major critical success and established his reputation as a director of exceptional control and vision."
+        }
+      ]
+    },
+    {
+      "uuid": "400b583d-8aba-4dd4-926c-af7829750f00",
+      "includes": [
+        "media",
+        "description"
+      ],
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -55,7 +78,7 @@
   "created_by": "jackDeVry",
   "title": "The Killing (1956) ",
   "slug": "the-killing-1956",
-  "updated_at": "2025-07-01T22:37:30.550Z",
+  "updated_at": "2025-07-03T15:01:55.443Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
