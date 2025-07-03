@@ -9,26 +9,10 @@
       ]
     },
     {
-      "uuid": "7f7ad033-5e55-4291-83e1-0ad2d029d013",
-      "includes": [
-        "media",
-        "description"
-      ],
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
-          "text": "Barry Lyndon",
-          "bold": true
-        },
-        {
-          "text": " (1975)\n\nDirected by Stanley Kubrick, "
+          "text": "\nDirected by Stanley Kubrick, "
         },
         {
           "text": "Barry Lyndon",
@@ -62,11 +46,17 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "7f7ad033-5e55-4291-83e1-0ad2d029d013",
       "includes": [
-        "media",
-        "label",
-        "description"
+        "media"
       ],
       "type": "event",
       "children": [
@@ -88,7 +78,7 @@
   "created_by": "jackDeVry",
   "title": "Barry Lyndon (1975)",
   "slug": "barry-lyndon-1975",
-  "updated_at": "2025-07-03T15:03:59.851Z",
+  "updated_at": "2025-07-03T16:22:43.078Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
