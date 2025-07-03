@@ -20,18 +20,6 @@
       ]
     },
     {
-      "uuid": "400b583d-8aba-4dd4-926c-af7829750f00",
-      "includes": [
-        "media",
-        "description"
-      ],
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
@@ -51,6 +39,26 @@
       ]
     },
     {
+      "uuid": "400b583d-8aba-4dd4-926c-af7829750f00",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -63,7 +71,7 @@
   "created_by": "jackDeVry",
   "title": "The Killing (1956) ",
   "slug": "the-killing-1956",
-  "updated_at": "2025-07-03T15:14:05.928Z",
+  "updated_at": "2025-07-03T15:14:28.962Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
