@@ -9,13 +9,42 @@
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Directed by Wes Anderson, "
+        },
+        {
+          "text": "Isle of Dogs",
+          "italic": true
+        },
+        {
+          "text": " is a stop-motion animated film set in a dystopian future Japan, where all dogs have been exiled to Trash Island due to an outbreak of “canine flu.” The story follows Atari, a young boy who crash-lands on the island in search of his beloved dog, Spots. He is aided by a pack of misfit dogs, including the reluctant stray Chief. Blending meticulous visual design, deadpan humor, and a deep affection for its canine characters, the film explores themes of loyalty, loss, and resistance against authoritarianism."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "ba19c7dc-00c1-46d3-b914-aae43dfe753d",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +64,7 @@
   "created_by": "jackDeVry",
   "title": "Isle of Dogs (2018)",
   "slug": "isle-of-dogs-2018",
-  "updated_at": "2025-07-03T18:33:16.861Z",
+  "updated_at": "2025-07-03T18:33:40.007Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
