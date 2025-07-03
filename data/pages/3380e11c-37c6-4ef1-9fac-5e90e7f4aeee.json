@@ -12,6 +12,25 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+          "bold": true
+        },
+        {
+          "text": " (1964)\n\nDirected by Stanley Kubrick, "
+        },
+        {
+          "text": "Dr. Strangelove",
+          "italic": true
+        },
+        {
+          "text": " is a satirical black comedy about Cold War paranoia and the absurdity of nuclear warfare. When a rogue U.S. Air Force general orders a nuclear strike on the Soviet Union, political and military leaders scramble to avert global catastrophe. Featuring Peter Sellers in multiple iconic roles, the film skewers military logic, political posturing, and human folly. Its dark humor and chilling relevance have made it one of the most acclaimed political satires in cinema history."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -43,7 +62,7 @@
   "created_by": "jackDeVry",
   "title": "Dr Strangelove, or: How I Learned to Stop Worrying and Love the Bomb (1964)",
   "slug": "dr-strangelove-or-how-i-learned-to-stop-wor",
-  "updated_at": "2025-07-01T22:39:32.553Z",
+  "updated_at": "2025-07-03T15:03:01.886Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
