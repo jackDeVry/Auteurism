@@ -16,6 +16,21 @@
       ],
       "children": [
         {
+          "text": "Directed by Wes Anderson, "
+        },
+        {
+          "text": "The Royal Tenenbaums",
+          "italic": true
+        },
+        {
+          "text": " is a stylized tragicomedy that chronicles the lives of three gifted siblings—Chas, Margot, and Richie—who peaked in childhood and now struggle with disappointment, estrangement, and eccentricity in adulthood. Their lives are upended by the sudden return of their estranged father, Royal, who pretends to be dying in an attempt to reconnect. Marked by Anderson’s signature symmetry, deadpan humor, and detailed production design, the film blends melancholy and whimsy, exploring themes of failure, forgiveness, and family dysfunction."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -31,9 +46,7 @@
     {
       "uuid": "681d1f09-5160-4529-9593-3118bfaff13d",
       "includes": [
-        "media",
-        "label",
-        "description"
+        "media"
       ],
       "type": "event",
       "children": [
@@ -55,7 +68,7 @@
   "created_by": "jackDeVry",
   "title": "The Royal Tenenbaums (2002)",
   "slug": "the-royal-tenenbaums-2002",
-  "updated_at": "2025-07-01T22:45:17.599Z",
+  "updated_at": "2025-07-03T16:30:15.156Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
