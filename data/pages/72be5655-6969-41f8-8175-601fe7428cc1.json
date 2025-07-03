@@ -9,22 +9,10 @@
       ]
     },
     {
-      "type": "heading-four",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
-          "text": "A Clockwork Orange",
-          "bold": true
-        },
-        {
-          "text": " (1971)\n\nDirected by Stanley Kubrick, "
+          "text": "Directed by Stanley Kubrick, "
         },
         {
           "text": "A Clockwork Orange",
@@ -44,11 +32,17 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "94edcebd-9590-42cc-b622-b3b7a5ca102f",
       "includes": [
-        "media",
-        "label",
-        "description"
+        "media"
       ],
       "type": "event",
       "children": [
@@ -70,7 +64,7 @@
   "created_by": "jackDeVry",
   "title": "A Clockwork Orange (1971)",
   "slug": "a-clockwork-orange-1971",
-  "updated_at": "2025-07-03T15:03:34.107Z",
+  "updated_at": "2025-07-03T16:22:11.197Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
