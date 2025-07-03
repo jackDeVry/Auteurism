@@ -4,19 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-          "bold": true
-        },
-        {
-          "text": " (1964)\n\nDirected by Stanley Kubrick, "
+          "text": "\nDirected by Stanley Kubrick, "
         },
         {
           "text": "Dr. Strangelove",
@@ -36,11 +24,17 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "d1be1615-47a0-4505-9a3e-f3cf7436ebba",
       "includes": [
-        "media",
-        "label",
-        "description"
+        "media"
       ],
       "type": "event",
       "children": [
@@ -62,7 +56,7 @@
   "created_by": "jackDeVry",
   "title": "Dr Strangelove, or: How I Learned to Stop Worrying and Love the Bomb (1964)",
   "slug": "dr-strangelove-or-how-i-learned-to-stop-wor",
-  "updated_at": "2025-07-03T15:03:01.886Z",
+  "updated_at": "2025-07-03T16:21:45.430Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
