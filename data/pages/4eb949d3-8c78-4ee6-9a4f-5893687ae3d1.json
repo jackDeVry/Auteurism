@@ -1,7 +1,11 @@
 {
   "content": [
     {
-      "type": "paragraph",
+      "uuid": "e73042bf-2ef8-4eb9-a6fd-882ffd281d93",
+      "includes": [
+        "media",
+        "description"
+      ],
       "children": [
         {
           "text": ""
@@ -16,6 +20,28 @@
       ],
       "children": [
         {
+          "text": "Directed by Tomás Gutiérrez Alea, "
+        },
+        {
+          "text": "Death of a Bureaucrat",
+          "italic": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "La muerte de un burócrata",
+          "italic": true
+        },
+        {
+          "text": ") is a Cuban dark comedy that satirizes the absurdities of state bureaucracy. The film follows a widow and her nephew as they attempt to recover a burial document mistakenly interred with a model worker. Their quest spirals into a surreal and Kafkaesque battle with Cuba’s bureaucratic machinery, leading to increasingly desperate—and darkly comic—solutions. Blending slapstick with political critique, the film is a landmark of Cuban cinema and a sharp commentary on post-revolutionary administrative life."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -31,9 +57,7 @@
     {
       "uuid": "e73042bf-2ef8-4eb9-a6fd-882ffd281d93",
       "includes": [
-        "media",
-        "label",
-        "description"
+        "media"
       ],
       "type": "event",
       "children": [
@@ -55,7 +79,7 @@
   "created_by": "jackDeVry",
   "title": "Death Of A Bureaucrat (1966)",
   "slug": "death-of-a-bureaucrat-1966",
-  "updated_at": "2025-07-01T22:44:21.829Z",
+  "updated_at": "2025-07-03T16:28:06.267Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
