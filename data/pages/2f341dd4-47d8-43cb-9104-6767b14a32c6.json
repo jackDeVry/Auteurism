@@ -16,6 +16,28 @@
       ],
       "children": [
         {
+          "text": "Directed by Tomás Gutiérrez Alea, "
+        },
+        {
+          "text": "Memorias del subdesarrollo",
+          "italic": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "Memories of Underdevelopment",
+          "italic": true
+        },
+        {
+          "text": ") is a landmark of Cuban and Latin American cinema. The film follows Sergio, a bourgeois intellectual who remains in Havana after the Cuban Revolution while his family flees to Miami. Through his detached and ironic observations of life under the new regime, Sergio reflects on politics, sexuality, colonial legacy, and cultural identity. Blending fiction with documentary footage, the film critiques both revolutionary euphoria and bourgeois paralysis, offering a nuanced meditation on personal and national underdevelopment."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -31,9 +53,7 @@
     {
       "uuid": "39b151ff-8570-46e4-8495-2f5e89e40330",
       "includes": [
-        "media",
-        "label",
-        "description"
+        "media"
       ],
       "type": "event",
       "children": [
@@ -55,7 +75,7 @@
   "created_by": "jackDeVry",
   "title": "Memorias del Subdesarrollo (1968)",
   "slug": "memorias-del-subdesarrollo-1968",
-  "updated_at": "2025-07-01T22:44:56.294Z",
+  "updated_at": "2025-07-03T16:29:30.601Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
