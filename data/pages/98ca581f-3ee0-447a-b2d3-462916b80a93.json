@@ -82,7 +82,53 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "And here is a clip from one of his recent interviews that showcase his desire to move away from self-attention, and put the spotlight on other creators:"
+          "text": "And here is a clip from one of his recent interviews that showcase his desire to move away from self-attention, and put the spotlight on other creators, he is talking about one of his most well-known films "
+        },
+        {
+          "text": "The Fantastic Mr. Fox",
+          "italic": true
+        },
+        {
+          "text": ". "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "ec482ddb-1020-452a-b115-f811138b36aa",
+      "includes": [
+        "media"
+      ],
+      "start": 1417,
+      "end": 1766,
+      "file": "2d14e851-f079-495a-b484-70e6ba628565",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -107,7 +153,7 @@
   "created_by": "jackDeVry",
   "title": "Wes Anderson's Aesthetic & Mise-en-Scène",
   "slug": "wes-andersons-aesthetic-and-mise-en-scene",
-  "updated_at": "2025-07-03T18:20:24.439Z",
+  "updated_at": "2025-07-03T18:22:47.084Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
