@@ -1,14 +1,6 @@
 {
   "content": [
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "uuid": "7c12b7ce-a493-4706-994e-f201b5873c15",
       "includes": [
         "media",
@@ -16,11 +8,7 @@
       ],
       "children": [
         {
-          "text": "Paths of Glory",
-          "bold": true
-        },
-        {
-          "text": " (1957)\n\nDirected by Stanley Kubrick, "
+          "text": "\nDirected by Stanley Kubrick, "
         },
         {
           "text": "Paths of Glory",
@@ -42,11 +30,28 @@
     {
       "uuid": "7c12b7ce-a493-4706-994e-f201b5873c15",
       "includes": [
-        "media",
-        "label",
-        "description"
+        "media"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "7c12b7ce-a493-4706-994e-f201b5873c15",
+      "includes": [
+        "media"
       ],
       "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -66,7 +71,7 @@
   "created_by": "jackDeVry",
   "title": "Paths of Glory (1957)",
   "slug": "paths-of-glory-1957",
-  "updated_at": "2025-07-03T15:02:32.290Z",
+  "updated_at": "2025-07-03T16:21:16.930Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
