@@ -16,7 +16,18 @@
       ],
       "children": [
         {
-          "text": ""
+          "text": "Stanley Kubrick: A Life in Pictures",
+          "bold": true
+        },
+        {
+          "text": " (2001)\n\nDirected by Jan Harlan, "
+        },
+        {
+          "text": "Stanley Kubrick: A Life in Pictures",
+          "italic": true
+        },
+        {
+          "text": " is a documentary that offers an in-depth look at the life and career of the legendary filmmaker. Narrated by Tom Cruise, the film traces Kubrick’s evolution from a young photographer in New York to one of cinema’s most influential auteurs. Featuring rare behind-the-scenes footage, personal photographs, and interviews with family members, collaborators, and admirers—including Steven Spielberg, Martin Scorsese, and Arthur C. Clarke—the documentary provides a comprehensive and intimate portrait of Kubrick’s artistic legacy."
         }
       ]
     },
@@ -55,7 +66,7 @@
   "created_by": "jackDeVry",
   "title": "Stanley Kubrick A Life in Pictures (2001)",
   "slug": "stanley-kubrick-a-life-in-pictures-2001",
-  "updated_at": "2025-07-01T22:40:57.672Z",
+  "updated_at": "2025-07-03T15:04:59.020Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
