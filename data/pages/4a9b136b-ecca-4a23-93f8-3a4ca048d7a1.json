@@ -300,14 +300,22 @@
               ]
             },
             {
-              "type": "image",
-              "url": "https://miro.medium.com/v2/resize:fit:840/1*oGtJQ6pcuEZMo9A1SEUAJA.jpeg",
+              "type": "paragraph",
               "children": [
                 {
                   "text": ""
                 }
-              ],
-              "scale": 100
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://media.cnn.com/api/v1/images/stellar/prod/150811115420-2001-space-odyssey-3.jpg?q=w_2685,h_3600,x_0,y_0,c_fill",
+              "caption": "(CNN Source)",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             },
             {
               "type": "paragraph",
@@ -349,7 +357,7 @@
   "created_at": "2025-06-13T13:31:38.024Z",
   "created_by": "jackDeVry",
   "title": "Auteurism",
-  "updated_at": "2025-07-03T17:18:04.634Z",
+  "updated_at": "2025-07-03T17:49:02.453Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
