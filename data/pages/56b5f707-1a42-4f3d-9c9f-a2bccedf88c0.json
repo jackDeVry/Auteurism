@@ -1,14 +1,6 @@
 {
   "content": [
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "uuid": "400b583d-8aba-4dd4-926c-af7829750f00",
       "includes": [
         "media",
@@ -16,11 +8,7 @@
       ],
       "children": [
         {
-          "text": "The Killing",
-          "bold": true
-        },
-        {
-          "text": " (1956)\n\nDirected by Stanley Kubrick, "
+          "text": "\nDirected by Stanley Kubrick, "
         },
         {
           "text": "The Killing",
@@ -54,11 +42,8 @@
     {
       "uuid": "400b583d-8aba-4dd4-926c-af7829750f00",
       "includes": [
-        "media",
-        "label",
-        "description"
+        "media"
       ],
-      "type": "event",
       "children": [
         {
           "text": ""
@@ -78,7 +63,7 @@
   "created_by": "jackDeVry",
   "title": "The Killing (1956) ",
   "slug": "the-killing-1956",
-  "updated_at": "2025-07-03T15:01:55.443Z",
+  "updated_at": "2025-07-03T15:14:05.928Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
