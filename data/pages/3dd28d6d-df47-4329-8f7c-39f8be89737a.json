@@ -16,6 +16,21 @@
       ],
       "children": [
         {
+          "text": "Directed by Wes Anderson, "
+        },
+        {
+          "text": "The Grand Budapest Hotel",
+          "italic": true
+        },
+        {
+          "text": " is a visually rich, fast-paced comedy-drama set in a fictional European country between the World Wars. The story follows Gustave H., a meticulous and flamboyant hotel concierge, and Zero, his loyal lobby boy, as they become entangled in the theft of a priceless painting and a family inheritance dispute. Framed as a story within a story, the film reflects on memory, nostalgia, and the fading grandeur of a bygone era. With its intricate production design, ensemble cast, and precise symmetry, it stands as one of Anderson’s most acclaimed and stylized works."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -31,9 +46,7 @@
     {
       "uuid": "1a867cab-fae8-48c6-b638-60bf019a4586",
       "includes": [
-        "media",
-        "label",
-        "description"
+        "media"
       ],
       "type": "event",
       "children": [
@@ -55,7 +68,7 @@
   "created_by": "jackDeVry",
   "title": "The Grand Budapest Hotel (2014)",
   "slug": "the-grand-budapest-hotel-2014",
-  "updated_at": "2025-07-01T22:45:32.870Z",
+  "updated_at": "2025-07-03T16:30:47.605Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
