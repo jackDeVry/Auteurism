@@ -9,14 +9,29 @@
       ]
     },
     {
-      "uuid": "94edcebd-9590-42cc-b622-b3b7a5ca102f",
-      "includes": [
-        "media",
-        "description"
-      ],
+      "type": "heading-four",
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A Clockwork Orange",
+          "bold": true
+        },
+        {
+          "text": " (1971)\n\nDirected by Stanley Kubrick, "
+        },
+        {
+          "text": "A Clockwork Orange",
+          "italic": true
+        },
+        {
+          "text": " is a dystopian satire based on the novel by Anthony Burgess. The film follows Alex DeLarge, a charismatic yet violent delinquent who leads a gang through a spree of ultra-violence in a bleak future Britain. After being captured, Alex is subjected to an experimental form of state-sponsored psychological conditioning aimed at eradicating his violent impulses. The film explores themes of free will, morality, and state control, blending brutal imagery with stylized cinematography and classical music. Controversial and influential, it remains one of Kubrick’s most provocative works."
         }
       ]
     },
@@ -55,7 +70,7 @@
   "created_by": "jackDeVry",
   "title": "A Clockwork Orange (1971)",
   "slug": "a-clockwork-orange-1971",
-  "updated_at": "2025-07-01T22:39:58.008Z",
+  "updated_at": "2025-07-03T15:03:34.107Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
