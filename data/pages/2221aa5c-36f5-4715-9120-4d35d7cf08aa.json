@@ -16,7 +16,18 @@
       ],
       "children": [
         {
-          "text": ""
+          "text": "Paths of Glory",
+          "bold": true
+        },
+        {
+          "text": " (1957)\n\nDirected by Stanley Kubrick, "
+        },
+        {
+          "text": "Paths of Glory",
+          "italic": true
+        },
+        {
+          "text": " is a powerful anti-war drama set during World War I. The film follows French Colonel Dax, played by Kirk Douglas, as he defends three soldiers accused of cowardice after a failed attack on a German position. As Dax confronts the brutal logic of military bureaucracy and the inhumanity of war, the film delivers a scathing critique of authority, nationalism, and the expendability of human life. Starkly shot and emotionally resonant, it is widely regarded as one of Kubrick’s early masterpieces."
         }
       ]
     },
@@ -55,7 +66,7 @@
   "created_by": "jackDeVry",
   "title": "Paths of Glory (1957)",
   "slug": "paths-of-glory-1957",
-  "updated_at": "2025-07-01T22:38:17.334Z",
+  "updated_at": "2025-07-03T15:02:32.290Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
