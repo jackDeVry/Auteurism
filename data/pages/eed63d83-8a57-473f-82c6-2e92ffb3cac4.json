@@ -16,7 +16,21 @@
       ],
       "children": [
         {
-          "text": ""
+          "text": "Directed by Tomás Gutiérrez Alea, "
+        },
+        {
+          "text": "The Twelve Chairs",
+          "italic": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "Las doce sillas",
+          "italic": true
+        },
+        {
+          "text": ") is a Cuban adaptation of the 1928 Soviet satirical novel by Ilf and Petrov. Set in post-revolutionary Cuba, the film follows a former aristocrat who learns that his family’s fortune was hidden in one of twelve dining chairs, all of which have been confiscated and scattered by the new regime. Joined by a crafty conman posing as a priest, he embarks on a madcap search across the island. Infused with humor and political satire, the film critiques greed, nostalgia, and opportunism in the wake of revolutionary change."
         }
       ]
     },
@@ -31,11 +45,28 @@
     {
       "uuid": "d9bfeb31-116e-4034-8590-811f061c8385",
       "includes": [
-        "media",
-        "label",
-        "description"
+        "media"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "d9bfeb31-116e-4034-8590-811f061c8385",
+      "includes": [
+        "media"
       ],
       "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -55,7 +86,7 @@
   "created_by": "jackDeVry",
   "title": "The Twelve Chairs (1962)",
   "slug": "the-twelve-chairs-1962",
-  "updated_at": "2025-07-01T22:44:41.318Z",
+  "updated_at": "2025-07-03T16:28:55.396Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
