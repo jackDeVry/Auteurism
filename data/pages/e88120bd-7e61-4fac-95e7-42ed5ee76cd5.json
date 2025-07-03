@@ -16,7 +16,25 @@
       ],
       "children": [
         {
-          "text": ""
+          "text": "Eyes Wide Shut",
+          "bold": true
+        },
+        {
+          "text": " (1999)\n\nDirected by Stanley Kubrick, "
+        },
+        {
+          "text": "Eyes Wide Shut",
+          "italic": true
+        },
+        {
+          "text": " is a psychological drama and erotic mystery that follows Dr. Bill Harford, played by Tom Cruise, as he descends into a night-long odyssey of sexual temptation and moral ambiguity after his wife confesses a fantasy of infidelity. As he infiltrates a secret, elite society, Harford is drawn into a surreal world that blurs the boundaries between desire, guilt, and reality. Based on Arthur Schnitzler’s novella "
+        },
+        {
+          "text": "Traumnovelle",
+          "italic": true
+        },
+        {
+          "text": ", the film was Kubrick’s final work, completed just days before his death, and remains a haunting exploration of intimacy, repression, and the masks we wear."
         }
       ]
     },
@@ -55,7 +73,7 @@
   "created_by": "jackDeVry",
   "title": "Eyes Wide Shut (1999)",
   "slug": "eyes-wide-shut-1999",
-  "updated_at": "2025-07-01T22:40:40.251Z",
+  "updated_at": "2025-07-03T15:04:25.673Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
