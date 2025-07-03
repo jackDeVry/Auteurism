@@ -1,7 +1,11 @@
 {
   "content": [
     {
-      "type": "paragraph",
+      "uuid": "82587444-1249-4de0-aca9-cd8a5ce73c93",
+      "includes": [
+        "media",
+        "description"
+      ],
       "children": [
         {
           "text": ""
@@ -16,11 +20,7 @@
       ],
       "children": [
         {
-          "text": "Stanley Kubrick: A Life in Pictures",
-          "bold": true
-        },
-        {
-          "text": " (2001)\n\nDirected by Jan Harlan, "
+          "text": "Directed by Jan Harlan, "
         },
         {
           "text": "Stanley Kubrick: A Life in Pictures",
@@ -40,11 +40,17 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "82587444-1249-4de0-aca9-cd8a5ce73c93",
       "includes": [
-        "media",
-        "label",
-        "description"
+        "media"
       ],
       "type": "event",
       "children": [
@@ -66,7 +72,7 @@
   "created_by": "jackDeVry",
   "title": "Stanley Kubrick A Life in Pictures (2001)",
   "slug": "stanley-kubrick-a-life-in-pictures-2001",
-  "updated_at": "2025-07-03T15:04:59.020Z",
+  "updated_at": "2025-07-03T16:23:45.659Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
