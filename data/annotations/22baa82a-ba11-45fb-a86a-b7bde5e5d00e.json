@@ -333,6 +333,27 @@
         }
       ],
       "uuid": "4edb3da8-0734-49ee-98e0-2a5c87eb8a08"
+    },
+    {
+      "start_time": 90,
+      "end_time": 291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "alea talks about film"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Tomás Gutiérrez Alea"
+        }
+      ],
+      "uuid": "f32618fe-037b-48b6-98fd-dd3db4fb89f6"
     }
   ],
   "event_id": "b1e54cb9-d2b3-4635-97bb-593d643d34c0",
