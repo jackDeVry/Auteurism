@@ -4,7 +4,7 @@
       "label": "Dr Strangelove, or: How I Learned to Stop Worrying and Love the Bomb (1964)",
       "is_offline": false,
       "file_type": "video",
-      "file_url": "https://dn790001.ca.archive.org/0/items/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/Dr%20Strangelove%20or%20How%20I%20Learned%20to%20Stop%20Worrying%20and%20Love%20the%20Bomb.mp4",
+      "file_url": "https://ia803407.us.archive.org/33/items/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/Dr%20Strangelove%20or%20How%20I%20Learned%20to%20Stop%20Worrying%20and%20Love%20the%20Bomb.mp4",
       "duration": 5698
     }
   },
@@ -12,6 +12,9 @@
   "label": "Dr Strangelove, or: How I Learned to Stop Worrying and Love the Bomb (1964)",
   "created_at": "2025-06-13T13:33:46.790Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-06-13T13:33:46.790Z",
-  "updated_by": "jackDeVry"
+  "updated_at": "2026-01-29T15:01:12.812Z",
+  "updated_by": "jackDeVry",
+  "av_file_order": [
+    "ec1c1ad0-efa7-4558-b824-7e9397dad940"
+  ]
 }
