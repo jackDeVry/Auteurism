@@ -54,7 +54,7 @@
       ],
       "event1": {
         "uuid": "e73042bf-2ef8-4eb9-a6fd-882ffd281d93",
-        "start": 303,
+        "start": 3,
         "end": 405,
         "file": "bdf11f57-efab-491b-9be3-015bbed95f54",
         "type": "Video"
@@ -91,6 +91,6 @@
   "slug": "cut-out-animation-in-aleas-cinema-2",
   "created_at": "2025-06-20T13:32:53.103Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-06-20T13:33:08.883Z",
+  "updated_at": "2026-05-14T20:37:24.221Z",
   "updated_by": "jackDeVry"
 }
