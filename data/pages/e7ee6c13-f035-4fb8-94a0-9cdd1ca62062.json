@@ -47,6 +47,29 @@
       ]
     },
     {
+      "uuid": "d9bfeb31-116e-4034-8590-811f061c8385",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -62,9 +85,6 @@
         "label",
         "description"
       ],
-      "start": 60,
-      "end": 90,
-      "file": "bdf11f57-efab-491b-9be3-015bbed95f54",
       "type": "event",
       "children": [
         {
@@ -81,16 +101,7 @@
       ]
     },
     {
-      "uuid": "d9bfeb31-116e-4034-8590-811f061c8385",
-      "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
-      ],
-      "start": 240,
-      "file": "51a5d20e-4beb-4381-a9ba-47ecb0c425e6",
-      "type": "event",
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -115,6 +126,6 @@
   "slug": "cut-out-animation-in-aleas-cinema-2",
   "created_at": "2025-06-20T13:32:53.103Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-06-09T14:11:42.142Z",
+  "updated_at": "2026-06-09T14:30:14.944Z",
   "updated_by": "jackDeVry"
 }
