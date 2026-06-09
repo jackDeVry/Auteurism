@@ -1,1 +1,23 @@
-{"annotations":[],"set":"Default","event_id":"d9bfeb31-116e-4034-8590-811f061c8385","source_id":"51a5d20e-4beb-4381-a9ba-47ecb0c425e6"}
+{
+  "annotations": [
+    {
+      "start_time": 53,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Momento del cut-out"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0bc168c5-807b-497f-a0bc-33ecf8bdf3c5"
+    }
+  ],
+  "set": "Default",
+  "event_id": "d9bfeb31-116e-4034-8590-811f061c8385",
+  "source_id": "51a5d20e-4beb-4381-a9ba-47ecb0c425e6"
+}
