@@ -1,22 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 294,
-      "end_time": 360,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Momento del Cut-out"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "098f9f09-c3bc-482f-8cdd-abfa271424c7"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "e73042bf-2ef8-4eb9-a6fd-882ffd281d93",
   "source_id": "bdf11f57-efab-491b-9be3-015bbed95f54"
